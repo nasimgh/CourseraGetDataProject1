@@ -29,7 +29,7 @@ _____________
 2. Activity:
 .. Name of activity performed
 
-Rest of the coluns corespond to averaged variables describing mean/std measurements. 
+Rest of the colunms corespond to avereaged variables describing mean/std measurements. 
 E.g. tGravityAcc-mean()-X
 tGravityAcc-mean()-Y
 tGravityAcc-mean()-Z
