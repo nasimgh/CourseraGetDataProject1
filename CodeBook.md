@@ -5,6 +5,12 @@ date: "Tuesday, October 21, 2014"
 output: html_document
 ---
 
+Data source
+-----------
+This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Feature Selection 
+-----------------
 Training and the test sets were merged to create one data set
 _____________________________________________________________
 
